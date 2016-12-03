@@ -2,9 +2,9 @@ nav:
   Home: /
   About: /about/
   Writing: /archives/
-  Projects: http://github.com/probberechts
+  Projects: https://github.com/schaary
 
-projects_url: http://github.com/probberechts
+projects_url: https://github.com/schaary
 
 customize:
     logo:
@@ -18,10 +18,10 @@ customize:
       android: /images/favicon-192x192.png
       apple: /images/apple-touch-icon.png
     social_links:
-        github: http://github.com/probberechts/cactus-dark
-        twitter: /
-        facebook: /
-        linkedin: /
+        github: https://github.com/schaary
+        twitter: https://twitter.com/schaary
+        # facebook: /
+        # linkedin: /
     post_count: 5
     highlight: rainbow
 
